@@ -4,10 +4,10 @@
 
   <li><b>Reinstalar o Windows</b>
    <ul>
-     <li> <i>Baixar ISO:</i> As isos já estavam no computador, se um dia precisar baixar,<b> vá no site oficial da propria empresa, </b>eles disponibilizam a ISO para download</li>
-     <li><i>Criar pen drive Bootavel:</i></li>
-      <li><i>BIOS -> Boot pelo pen drive: </i></li>
-     <li> <i>Partições/Formatação:</i>
+     <li> <i>Baixar ISO:</i> As isos já estavam no computador, se um dia precisar baixar,<b> vá no site oficial da propria empresa, </b>eles disponibilizam a ISO para download</li><br>
+     <li><i>Criar pen drive Bootavel:</i> Para criar um pen drive bootavel baixe o <a href="https://unetbootin.github.io/">"unetbootin" no github</a> e seguir op asso a passo (você também vai precisar da ISO encontre um lugar pra baixar)</li><br>
+      <li><i>BIOS -> Boot pelo pen drive: </i> Desligar o pc e quando ele ligar ficar apertando F12 para instalar. No Ubunto tem como usar em modo live.</li><br>
+     <li> <i>Partições/Formatação:</i><br>
     </ul>
    </li>
 <hr>
